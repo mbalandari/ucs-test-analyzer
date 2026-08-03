@@ -32,3 +32,14 @@ ucs-test-analyzer/
 ├── .gitignore
 └── README.md
 ```
+
+## Documentation
+
+Full documentation is available in the `docs/` folder:
+
+- [Overview](docs/overview.md)
+- [Installation](docs/installation.md)
+- [Usage](docs/usage.md)
+- [Methodology](docs/methodology.md)
+- [Data Format](docs/data_format.md)
+- [Changelog](docs/changelog.md)
